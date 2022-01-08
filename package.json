@@ -1,0 +1,25 @@
+{
+  "name": "multilingual-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "log4js": "^6.3.0",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "uuidv4": "^6.2.12"
+  }
+}
